@@ -1,5 +1,5 @@
 # LearningNLP
-Some Tutorials & in depth analysis of NLP's techniques & algorithms
+Some Tutorials and in depth analysis of NLP's techniques / algorithms
 
 
 ### 1st Tutorial 
