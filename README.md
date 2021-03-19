@@ -2,13 +2,13 @@
 Some Tutorials and in depth analysis of NLP's techniques / algorithms
 
 
-### 1st Tutorial 
+## 1st Tutorial 
 
-Topics include : 
+### Topics 
 * Sentiment Analysis with Logistic Regression 
 * Sentiment Analysis with Naive Bayes 
 
-Possible Ideas: 
+### Possible Ideas: 
 
 **(Simo)** 
 * Scrape or Find a small-size dataset (maybe from Kaggle), randomly sample some text from it and build a logistic regression / naive bayes classifier 
