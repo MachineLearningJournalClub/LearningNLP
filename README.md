@@ -2,7 +2,7 @@
 Some Tutorials and in depth analysis of NLP's techniques / algorithms
 
 
-## 1st Tutorial 
+## Tutorial 1
 
 ### Topics 
 * Sentiment Analysis with Logistic Regression 
