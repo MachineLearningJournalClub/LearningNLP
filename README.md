@@ -19,4 +19,4 @@ Some Tutorials and in depth analysis of NLP's techniques / algorithms
 * Maybe we can use the arxiv dataset (https://www.kaggle.com/Cornell-University/arxiv) and use the abstract to extract the cateogry. It could be useful to explore this dataset because it can be used for more advanced projects later.
 
 **(Alessio)**
-* Multiclass classification. We can introduce a new model, maybe Support Vector Machine? It could be a quite simple topic to introduce from zero...and I have no other ideas :(
+* Multiclass classification. We can introduce a model beyond logist regression, maybe Softmax...or maybe Support Vector Machine? It could be a quite "simple" topic to introduce from zero...and I have no other ideas :(
