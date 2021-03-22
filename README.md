@@ -20,3 +20,13 @@ Some Tutorials and in depth analysis of NLP's techniques / algorithms
 
 **(Alessio)**
 * Multiclass classification. We can introduce a model beyond logist regression, maybe Softmax...or maybe Support Vector Machine? It could be a quite "simple" topic to introduce from zero...and I have no other ideas :(
+
+
+-------
+## Tutorial 2
+
+### Topics 
+* Vector Space Models 
+* Machine Translation and Document Search
+
+### Possible Ideas: 
