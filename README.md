@@ -24,8 +24,8 @@ Some Tutorials and in depth analysis of NLP's techniques / algorithms
 ### Notebook 
 
 * Dataset: [ArXiv from Kaggle](https://www.kaggle.com/Cornell-University/arxiv)
-* Preprocessing, Binary classification 
-* Explainability: SHAP, LIME 
+* Preprocessing (pandas), Binary classification 
+* Explainability: [SHAP](https://christophm.github.io/interpretable-ml-book/shap.html), [LIME](https://christophm.github.io/interpretable-ml-book/lime.html#lime) 
 * Open Questions: How to deal with multiclass problems? 
 
 
