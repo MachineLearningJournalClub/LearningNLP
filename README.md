@@ -21,6 +21,13 @@ Some Tutorials and in depth analysis of NLP's techniques / algorithms
 **(Alessio)**
 * Multiclass classification. We can introduce a model beyond logist regression, maybe Softmax...or maybe Support Vector Machine? It could be a quite "simple" topic to introduce from zero...and I have no other ideas :(
 
+### Notebook 
+
+* Dataset: [ArXiv from Kaggle](https://www.kaggle.com/Cornell-University/arxiv)
+* Preprocessing, Binary classification 
+* Explainability: SHAP, LIME 
+* Open Questions: How to deal with multiclass problems? 
+
 
 -------
 ## Tutorial 2
