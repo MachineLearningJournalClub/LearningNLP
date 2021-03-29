@@ -21,7 +21,7 @@ Some Tutorials and in depth analysis of NLP's techniques / algorithms
   * Adversarial attacks (have you heard of?), i.e. how to fool algorithms --> [Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods](https://arxiv.org/abs/1911.02508)
 * Open Questions for you: 
   * How to deal with multiclass problems? 
-  * Try to develop binary classification with [Gensim](https://radimrehurek.com/gensim/)
+  * Try to develop binary classification with abstracts instead of titles
 
 
 -------
