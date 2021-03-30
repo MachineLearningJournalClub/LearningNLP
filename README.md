@@ -25,6 +25,7 @@ Some Tutorials and in depth analysis of NLP's techniques / algorithms
 * Open Questions for you: 
   * How to deal with multiclass problems? 
   * Try to develop binary classification with abstracts instead of titles
+  * Try to develop the same pipeline with [spaCy](https://spacy.io/)
 
 -------
 ## Tutorial 2
