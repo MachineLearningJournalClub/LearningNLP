@@ -13,9 +13,9 @@ Some Tutorials and in depth analysis of NLP's techniques / algorithms
 ### Notebook 
 
 * Dataset: [ArXiv from Kaggle](https://www.kaggle.com/Cornell-University/arxiv)
-* Preprocessing: [pandas](https://pandas.pydata.org/docs/), nltk, gensim 
+* Preprocessing: [pandas](https://pandas.pydata.org/docs/), [nltk](https://www.nltk.org/), [gensim](https://radimrehurek.com/gensim/) 
 * Binary classification: Scikit-learn's [CountVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html) + [TfidfTransformer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html?highlight=tfidf#sklearn.feature_extraction.text.TfidfTransformer) 
-* Explainability Methods: [SHAP](https://christophm.github.io/interpretable-ml-book/shap.html), [LIME](https://christophm.github.io/interpretable-ml-book/lime.html#lime)
+* Explainability Methods: [LIME](https://christophm.github.io/interpretable-ml-book/lime.html#lime), [SHAP](https://christophm.github.io/interpretable-ml-book/shap.html)
 
   Useful references for explainibility methods: 
   * LIME --> [Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) 
