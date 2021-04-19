@@ -35,4 +35,22 @@ Some Tutorials and in depth analysis of NLP's techniques / algorithms
 * Machine Translation and Document Search
 
 ### Possible Ideas: 
-* Word Embedding
+
+-------
+## Tutorial 3
+
+### Topics 
+* Autocorrect
+* Part of Speech Tagging and Hidden Markov Models
+
+### Possible Ideas: 
+
+
+-------
+## Tutorial 4
+
+### Topics 
+* Autocomplete and Language Models
+* Word embeddings with neural networks
+
+### Possible Ideas: 
