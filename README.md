@@ -35,3 +35,4 @@ Some Tutorials and in depth analysis of NLP's techniques / algorithms
 * Machine Translation and Document Search
 
 ### Possible Ideas: 
+* Word Embedding
