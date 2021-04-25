@@ -72,12 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+ADD PROJECT DESCRIPTION + TWO LINES ABOUT MLJC
 
 ### Built With
 
@@ -90,16 +85,13 @@ Here's a blank template to get started:
 <!-- GETTING STARTED -->
 # Getting Started
 
-To get a local copy up and running follow these simple steps.
+You can either get a local copy by downloading this repo or either use [Google Colaboratory](https://colab.research.google.com/) by copy-pasting the link of the notebook (.ipynb file) of your choice.
 
 
-### Prerequisites
+### Prerequisites 
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBRARIES)
+
 
 <!-- USAGE EXAMPLES -->
 
