@@ -95,7 +95,7 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
 
 <!-- USAGE EXAMPLES -->
 
-## Tutorial 1
+## [Tutorial 1](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/LearningNLP_Tutorial1.ipynb)
 
 ### Topics 
 * Sentiment Analysis with Logistic Regression 
