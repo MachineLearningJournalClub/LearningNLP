@@ -25,7 +25,6 @@
   <h3 align="center">Some Tutorials and in depth analysis of Natural Language Processing (NLP) techniques and applied NLP</h3>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/MachineLearningJournalClub/LearningNLP"><strong>Explore the docs »</strong></a>
     <br />
@@ -53,11 +52,13 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>  
+        <li><a href="#tutorial1">Tutorial 1</a></li>
+        <li><a href="#tutorial2">Tutorial 2</a></li>
+        <li><a href="#tutorial3">Tutorial 3</a></li>
+        <li><a href="#tutorial4">Tutorial 4</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -87,9 +88,20 @@ Here's a blank template to get started:
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+# Getting Started
 
 To get a local copy up and running follow these simple steps.
+
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+<!-- USAGE EXAMPLES -->
 
 ## Tutorial 1
 
@@ -143,23 +155,6 @@ To get a local copy up and running follow these simple steps.
 ### Possible Ideas: 
 
 ------
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
