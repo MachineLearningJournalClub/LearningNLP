@@ -53,10 +53,10 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>  
-        <li><a href="#tutorial 1">Tutorial 1</a></li>
-        <li><a href="#tutorial 2">Tutorial 2</a></li>
-        <li><a href="#tutorial 3">Tutorial 3</a></li>
-        <li><a href="#tutorial 4">Tutorial 4</a></li>
+        <li><a href="#tutorial-1">Tutorial 1</a></li>
+        <li><a href="#tutorial-2">Tutorial 2</a></li>
+        <li><a href="#tutorial-3">Tutorial 3</a></li>
+        <li><a href="#tutorial-4">Tutorial 4</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
