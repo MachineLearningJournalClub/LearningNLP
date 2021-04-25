@@ -32,9 +32,9 @@
     <br />
     <a href="https://github.com/MachineLearningJournalClub/LearningNLP">View Demo</a>
     ·
-    <a href="https://github.com/MachineLearningJournalClub/LearningNLP">Report Bug</a>
+    <a href="https://github.com/MachineLearningJournalClub/LearningNLP/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MachineLearningJournalClub/LearningNLP">Request Feature</a>
+    <a href="https://github.com/MachineLearningJournalClub/LearningNLP/pulls">Request Feature</a>
   </p>
 </p>
 
