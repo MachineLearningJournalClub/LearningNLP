@@ -22,7 +22,7 @@
   </a>
 
   <h1 align="center">Learning NLP</h1>
-  <h3 align="center">Some Tutorials and in depth analysis of Natural Language Processing (NLP) techniques / algorithms and applied NLP</h3>
+  <h3 align="center">Some Tutorials and in depth analysis of Natural Language Processing (NLP) techniques and applied NLP</h3>
 
   <p align="center">
     project_description
