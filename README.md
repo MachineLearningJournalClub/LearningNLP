@@ -18,8 +18,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/MachineLearningJournalClub/LearningNLP">
-    <img src="images/logo.png" alt="Logo" width="120" height="120">
-    <img src="images/logo_TOC.png" alt="Logo" width="240" height="120">
+    <img src="img/logos/logo_mljc.png" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">Learning NLP</h1>
@@ -212,16 +211,11 @@ Project Link: [https://github.com/MachineLearningJournalClub/LearningNLP](https:
 
 <p align="center">
    <a href="https://github.com/MachineLearningJournalClub/LearningNLP">
-    <img src="images/logo_hpc4ai.png" alt="Logo" width="300" height="120">
-    <img src="images/logo_dataiku.png" alt="Logo" width="240" height="120">
+    <img src="img/logos/logo_hpc4ai.png" alt="Logo" width="300" height="120">
     
   </a>
 
 * [https://hpc4ai.it/](https://hpc4ai.it/)
-* [https://www.dataiku.com/](https://www.dataiku.com/)
-
-
-
 
 
 
