@@ -202,7 +202,7 @@ Project Link: [https://github.com/MachineLearningJournalClub/LearningNLP](https:
     
   </a>
 
-* [https://hpc4ai.it/](https://hpc4ai.it/)
+* [HPC4AI](https://hpc4ai.it/)
 
 
 
