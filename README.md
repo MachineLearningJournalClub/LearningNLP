@@ -101,6 +101,7 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
 * Sentiment Analysis with Logistic Regression 
 * Sentiment Analysis with Naive Bayes 
 * Word Vectorizing (CountVectorizer in Scikit-learn)
+* Some Explainability Methods
 
 ### Notebook 
 
@@ -124,6 +125,8 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
 
 ### Topics 
 
+* Gender Framing (in Political Tweets)
+* Political Party Prediction
 * Topic Modeling - Latent Dirichlet Allocation (LDA)
 
 ### Possible Ideas: 
