@@ -100,6 +100,7 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
 ### Topics 
 * Sentiment Analysis with Logistic Regression 
 * Sentiment Analysis with Naive Bayes 
+* Word Vectorizing (CountVectorizer in Scikit-learn)
 
 ### Notebook 
 
@@ -122,8 +123,8 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
 ## [Tutorial 2](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/LearningNLP_Tutorial2.ipynb)
 
 ### Topics 
-* Vector Space Models 
-* Machine Translation and Document Search
+
+* Topic Modeling - Latent Dirichlet Allocation (LDA)
 
 ### Possible Ideas: 
 
