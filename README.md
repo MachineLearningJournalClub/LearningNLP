@@ -92,9 +92,7 @@ You can either get a local copy by downloading this repo or either use [Google C
 
 IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBRARIES)
 
-
-<!-- USAGE EXAMPLES -->
-
+-------
 ## [Tutorial 1](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/LearningNLP_Tutorial1.ipynb)
 
 ### Topics 
