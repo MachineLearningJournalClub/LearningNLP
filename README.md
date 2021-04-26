@@ -123,13 +123,17 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
 -------
 ## [Tutorial 2](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/LearningNLP_Tutorial2.ipynb)
 
+
 ### Topics 
 
+* Bias & Fairness in NLP (Ethics and Machine Learning)
 * Gender Framing (in Political Tweets)
 * Political Party Prediction
 * Topic Modeling - Latent Dirichlet Allocation (LDA)
 
-### Possible Ideas: 
+### Slides
+
+### Notebook 
 
 -------
 ## Tutorial 3
