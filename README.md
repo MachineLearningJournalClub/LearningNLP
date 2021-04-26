@@ -186,7 +186,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Marina Rizzi - email : []() - [linkedin]()
 
-Alessio Borriero - email : []() - [linkedin]()
+Alessio Borriero - email : [alessio.borriero@edu.unito.it](alessio.borriero@edu.unito.it) - [linkedin](https://www.linkedin.com/in/alessio-borriero-357724183/)
 
 Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
 
