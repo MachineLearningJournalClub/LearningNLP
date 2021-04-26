@@ -119,7 +119,7 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
   * Try to develop the same pipeline with [spaCy](https://spacy.io/)
 
 -------
-## Tutorial 2
+## [Tutorial 2](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/LearningNLP_Tutorial2.ipynb)
 
 ### Topics 
 * Vector Space Models 
