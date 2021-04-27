@@ -131,7 +131,14 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
 
 ### Slides
 
+We'd like to introduce some ethical concerns in ML and especially in NLP, the idea is to start a long-term project directed towards Bias & Fairness in Machine Learning, i.e. intrinsic problems in our architectures can create inequalities in the real world (Have you watched *"Coded Bias"* on Netflix?)
+
 ### Notebook 
+
+* Dataset: we created [a dataset](https://www.kaggle.com/marinar/tweets-some-of-house-of-representative) by scraping tweets from some US politicians 
+* Preprocessing: [pandas](https://pandas.pydata.org/docs/), [nltk](https://www.nltk.org/), [gensim](https://radimrehurek.com/gensim/) 
+* Binary classification: Scikit-learn's [CountVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html) + [TfidfTransformer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html?highlight=tfidf#sklearn.feature_extraction.text.TfidfTransformer) 
+* Topic Modeling by employing [Latent Dirichlet Allocation ](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)(LDA) + visualization
 
 -------
 ## Tutorial 3
