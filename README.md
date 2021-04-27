@@ -138,7 +138,9 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
 * Dataset: we created [a dataset](https://www.kaggle.com/marinar/tweets-some-of-house-of-representative) by scraping tweets from some US politicians 
 * Preprocessing: [pandas](https://pandas.pydata.org/docs/), [nltk](https://www.nltk.org/), [gensim](https://radimrehurek.com/gensim/) 
 * Binary classification: Scikit-learn's [CountVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html) + [TfidfTransformer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html?highlight=tfidf#sklearn.feature_extraction.text.TfidfTransformer) 
-* Topic Modeling by employing [Latent Dirichlet Allocation ](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)(LDA) + visualization
+* Topic Modeling by employing [Latent Dirichlet Allocation ](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)(LDA) + visualization. Some educational contents for LDA: [L. Serrano part 1 on LDA](https://www.youtube.com/watch?v=T05t-SqKArY), [L. Serrano part 2 on LDA](https://www.youtube.com/watch?v=BaM1uiCpj_E)
+
+   
 
 -------
 ## Tutorial 3
