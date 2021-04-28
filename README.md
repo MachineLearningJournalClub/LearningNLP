@@ -146,11 +146,15 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
 ## Tutorial 3
 
 ### Topics 
-* Autocorrect
-* Part of Speech Tagging and Hidden Markov Models
+
+* Global Vectors for word representations (GloVe), [Stanford NLP](https://nlp.stanford.edu/pubs/glove.pdf)
+* Bias in Word Embeddings (Gender + Ethnic Stereotypes) 
+
 
 ### Possible Ideas: 
 
+* Word embeddings quantify 100 years of gender and ethnic stereotypes, PNAS paper + [code](https://github.com/nikhgarg/EmbeddingDynamicStereotypes)
+* Understanding Bias in Word Embeddings, PMLR paper + [code](https://github.com/mebrunet/understanding-bias)
 
 -------
 ## Tutorial 4
