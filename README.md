@@ -109,8 +109,8 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
 * Explainability Methods: [LIME](https://christophm.github.io/interpretable-ml-book/lime.html#lime), [SHAP](https://christophm.github.io/interpretable-ml-book/shap.html)
 
   Useful references for explainibility methods: 
-  * LIME --> [Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) 
-  * SHAP -->  [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874v2)
+  * LIME, [Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) 
+  * SHAP, [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874v2)
   * Adversarial attacks (have you heard of?), i.e. how to fool algorithms --> [Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods](https://arxiv.org/abs/1911.02508)
   
 * Open Questions for you: 
