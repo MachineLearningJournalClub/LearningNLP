@@ -131,7 +131,7 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
 
 ### Slides
 
-We'd like to introduce some ethical concerns in ML and especially in NLP, the idea is to start a long-term project directed towards Bias & Fairness in Machine Learning, i.e. intrinsic problems in our architectures can create inequalities in the real world (Have you watched *"Coded Bias"* on Netflix?)
+We'd like to introduce some ethical concerns in ML and especially in NLP, the idea is to start a long-term project directed towards Bias & Fairness in Machine Learning, i.e. intrinsic problems in our data can create inequalities in the real world (Have you watched *"Coded Bias"* on Netflix?)
 
 ### Notebook 
 
