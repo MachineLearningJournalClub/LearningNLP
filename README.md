@@ -129,7 +129,7 @@ IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBR
 * Political Party Prediction
 * Topic Modeling - Latent Dirichlet Allocation (LDA)
 
-### Slides
+### [Slides](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/LearningNLP_Slides_Tutorial2.pdf)
 
 We'd like to introduce some ethical concerns in ML and especially in NLP, the idea is to start a long-term project directed towards Bias & Fairness in Machine Learning, i.e. intrinsic problems in our data can create inequalities in the real world (Have you watched *"Coded Bias"* on Netflix?)
 
