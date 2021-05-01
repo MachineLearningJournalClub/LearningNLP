@@ -13,7 +13,7 @@
       <ul>
         <li><a href="#word-embedding">Word embedding</a></li>
           <ul>
-        <li><a href="#why-can-computerS-understand-natural-language-?-the-structuralist-image-of-language-behind-word-embeddings">Why Can Computers Understand Natural Language? The Structuralist Image of Language Behind Word Embeddings</a></li>
+        <li><a href="#why-can-computers-understand-natural-language?-the-structuralist-image-of-language-behind-word-embeddings">Why Can Computers Understand Natural Language? The Structuralist Image of Language Behind Word Embeddings</a></li>
           </ul>
       </ul>
     </li>
