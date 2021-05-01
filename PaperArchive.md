@@ -6,12 +6,13 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">What NLP Paper Archive is</a>
+      <a href="#What NLP Paper Archive is">What NLP Paper Archive is</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#papers categories">Papers categories</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>  
+        <li><a href="#word embedding">Word embedding</a></li>
+        <li><a href="#paper1">Paper 1</a></li>
       </ul>
     </li>
   </ol>
