@@ -88,9 +88,9 @@ ADD PROJECT DESCRIPTION + TWO LINES ABOUT MLJC
 You can either get a local copy by downloading this repo or either use [Google Colaboratory](https://colab.research.google.com/) by copy-pasting the link of the notebook (.ipynb file) of your choice.
 
 
-### Prerequisites 
+### Prerequisites (Local Version)
 
-**Install Miniconda (Local Version)**
+**Install Miniconda**
 
 Please go to the [Anaconda website](https://conda.io/miniconda.html).
 Download and install *the latest* Miniconda version for *Python* 3.8 for your operating system.
@@ -100,12 +100,12 @@ wget <http:// link to miniconda>
 sh <miniconda*.sh>
 ```
 
-**Download This Repo (Local Version)**
+**Download This Repo**
 ```bash
 git clone https://github.com/MachineLearningJournalClub/LearningNLP
 ```
 
-**Setup Conda Environment (Local Version)**
+**Setup Conda Environment**
 
 IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBRARIES)
 
