@@ -90,22 +90,22 @@ You can either get a local copy by downloading this repo or either use [Google C
 
 ### Prerequisites 
 
-**Install Miniconda**
+**Install Miniconda (Local Version)**
 
 Please go to the [Anaconda website](https://conda.io/miniconda.html).
-Download and install *the latest* Miniconda version for *Python* 3.7 for your operating system.
+Download and install *the latest* Miniconda version for *Python* 3.8 for your operating system.
 
 ```bash
 wget <http:// link to miniconda>
 sh <miniconda*.sh>
 ```
 
-**Download This Repo**
+**Download This Repo (Local Version)**
 ```bash
 git clone https://github.com/MachineLearningJournalClub/LearningNLP
 ```
 
-**Setup Conda Environment**
+**Setup Conda Environment (Local Version)**
 IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBRARIES)
 
 Change directory (`cd`) into the LearningNLP folder, then type:
