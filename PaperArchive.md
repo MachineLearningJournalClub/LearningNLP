@@ -11,7 +11,7 @@
     <li>
       <a href="#papers-topics">Papers topics</a>
       <ul>
-        <li><a href="#word-embedding">Word embedding</a></li>
+        <li><a href="#word-embedding-ciao">Word embedding</a></li>
           <ul>
         <li><a href="#why-can-computer">Why Can Computers Understand Natural Language? The Structuralist Image of Language Behind Word Embeddings</a></li>
           </ul>
@@ -29,7 +29,7 @@ NLP Paper Archive aims to be a sort of library containing interesting paper talk
 <!-- PAPERS TOPIC -->
 # Papers topics
 
-<!-- WORD EMBEDDING -->
+<!-- WORD EMBEDDING CIAO-->
 ## Word Embedding
 -------
 <!-- WHY CAN COMPUTER -->
