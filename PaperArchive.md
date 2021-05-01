@@ -32,7 +32,7 @@ NLP Paper Archive aims to be a sort of library containing interesting paper talk
 <!-- WORD EMBEDDING -->
 ## Word Embedding
 -------
-<!-- WHY CAN COMPUTERS UNDERSTAND NATRUAL LANGUAGE -->
+<!-- WHY CAN COMPUTER UNDERSTAND NATRUAL LANGUAGE -->
 ## [Why Can Computers Understand Natural Language? The Structuralist Image of Language Behind Word Embeddings](https://www.researchgate.net/publication/341393890_Why_Can_Computers_Understand_Natural_Language_The_Structuralist_Image_of_Language_Behind_Word_Embeddings)
 ### Juan Luis Gastaldi (2020), Philosophy & Technology, 34, 149–214
 
