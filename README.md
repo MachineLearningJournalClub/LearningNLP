@@ -106,6 +106,7 @@ git clone https://github.com/MachineLearningJournalClub/LearningNLP
 ```
 
 **Setup Conda Environment (Local Version)**
+
 IN THE END WE CAN SETUP A CONDA ENVIRONMENT AND EXPORT REQUIREMENTS (NEEDED LIBRARIES)
 
 Change directory (`cd`) into the LearningNLP folder, then type:
