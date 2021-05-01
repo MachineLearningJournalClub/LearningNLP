@@ -12,7 +12,9 @@
       <a href="#papers categories">Papers categories</a>
       <ul>
         <li><a href="#word embedding">Word embedding</a></li>
+          <ul>
         <li><a href="#paper1">Paper 1</a></li>
+          </ul>
       </ul>
     </li>
   </ol>
