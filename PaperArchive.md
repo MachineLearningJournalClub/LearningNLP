@@ -13,7 +13,7 @@
       <ul>
         <li><a href="#word-embedding">Word embedding</a></li>
           <ul>
-        <li><a href="#why-can-computers-understand-natural-language-the-structuralist-image-of-language-behind-word-embeddings">Why Can Computers Understand Natural Language The Structuralist Image of Language Behind Word Embeddings</a></li>
+        <li><a href="#why-can-computers-understand-natural-language?-the-structuralist-image-of-language-behind-word-embeddings">Why Can Computers Understand Natural Language? The Structuralist Image of Language Behind Word Embeddings</a></li>
           </ul>
       </ul>
     </li>
@@ -32,8 +32,8 @@ NLP Paper Archive aims to be a sort of library containing interesting paper talk
 <!-- WORD EMBEDDING -->
 ## Word Embedding
 -------
-<!-- WHY CAN COMPUTERS UNDERSTAND NATURAL LANGUAGE THE STRUCTURALIST IMAGE OF LANGUAGE BEHIND WORD EMBEDDINGS -->
-## [Why Can Computers Understand Natural Language The Structuralist Image of Language Behind Word Embeddings](https://www.researchgate.net/publication/341393890_Why_Can_Computers_Understand_Natural_Language_The_Structuralist_Image_of_Language_Behind_Word_Embeddings)
+<!-- WHY CAN COMPUTERS UNDERSTAND NATURAL LANGUAGE? THE STRUCTURALIST IMAGE OF LANGUAGE BEHIND WORD EMBEDDINGS -->
+## [Why Can Computers Understand Natural Language? The Structuralist Image of Language Behind Word Embeddings](https://www.researchgate.net/publication/341393890_Why_Can_Computers_Understand_Natural_Language_The_Structuralist_Image_of_Language_Behind_Word_Embeddings)
 ### Juan Luis Gastaldi (2020), Philosophy & Technology, 34, 149–214
 
 
