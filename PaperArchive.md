@@ -19,5 +19,11 @@
     </li>
   </ol>
 </details>
-  
+
+
+<!-- What NLP Paper Archive is -->
+## What NLP Paper Archive is
+
+NLP Paper Archive aims to be a sort of library containing interesting paper talking about Natural Processing. It's organised in topic (i.e. word embedding, ethical application, ecc.) and every paper it's with a description made by important keywords and questions around which the paper is focused
+
   
