@@ -148,6 +148,7 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
 ### Topics 
 
 * Global Vectors for word representations (GloVe), [Stanford NLP](https://nlp.stanford.edu/pubs/glove.pdf)
+* [Fasttext](https://fasttext.cc/docs/en/unsupervised-tutorial.html), skipgrams vs CBOWs
 * Bias in Word Embeddings (Gender + Ethnic Stereotypes) 
 
 
