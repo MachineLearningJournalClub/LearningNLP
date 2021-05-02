@@ -174,13 +174,14 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
 
 * Global Vectors for word representations (GloVe), [Stanford NLP](https://nlp.stanford.edu/pubs/glove.pdf)
 * [Fasttext](https://fasttext.cc), skipgrams vs CBOWs
-* Bias in Word Embeddings (Gender + Ethnic Stereotypes) 
+* Bias in Word Embeddings (Gender + Ethnic Stereotypes) with WEFE
 
 
 ### Possible Ideas: 
 
 * Word embeddings quantify 100 years of gender and ethnic stereotypes, [PNAS paper](https://www.pnas.org/content/pnas/115/16/E3635.full.pdf) + [code](https://github.com/nikhgarg/EmbeddingDynamicStereotypes)
 * Understanding Bias in Word Embeddings, [ICML paper](http://proceedings.mlr.press/v97/brunet19a.html) + [code](https://github.com/mebrunet/understanding-bias)
+* Employing [The Word Embedding Fairness Evaluation Framework (WEFE)](https://github.com/dccuchile/wefe)
 
 -------
 ## Tutorial 4
