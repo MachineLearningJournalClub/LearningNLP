@@ -180,7 +180,8 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
 ### Possible Ideas: 
 
 * Understanding Bias in Word Embeddings, [ICML paper](http://proceedings.mlr.press/v97/brunet19a.html) + [code](https://github.com/mebrunet/understanding-bias)
-* Employing [The Word Embedding Fairness Evaluation Framework (WEFE)](https://github.com/dccuchile/wefe)
+* Employing [The Word Embedding Fairness Evaluation Framework (WEFE)](https://github.com/dccuchile/wefe): WEAT, (RIPA?)
+* Debiasing Word Embeddings, *[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)*, [code](https://github.com/tolga-b/debiaswe)
 
 -------
 ## Tutorial 4
