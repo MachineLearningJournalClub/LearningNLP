@@ -186,10 +186,12 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
 ## Tutorial 4
 
 ### Topics 
-* Autocomplete and Language Models
-* Word embeddings with neural networks
+* 
+* 
 
 ### Possible Ideas: 
+* 
+* 
 
 ------
 
