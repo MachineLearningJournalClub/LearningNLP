@@ -118,7 +118,7 @@ source activate LNLP
 ```
 
 -------
-## [Tutorial 1](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/LearningNLP_Tutorial1.ipynb)
+## [Tutorial 1](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/01_LearningNLP_Tutorial.ipynb)
 
 ### Topics 
 * Sentiment Analysis with Logistic Regression 
@@ -144,7 +144,7 @@ source activate LNLP
   * Try to develop the same pipeline with [spaCy](https://spacy.io/)
 
 -------
-## [Tutorial 2](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/LearningNLP_Tutorial2.ipynb)
+## [Tutorial 2](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/02_LearningNLP_Tutorial.ipynb)
 
 
 ### Topics 
@@ -154,7 +154,7 @@ source activate LNLP
 * Political Party Prediction
 * Topic Modeling - Latent Dirichlet Allocation (LDA)
 
-### [Slides](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/LearningNLP_Slides_Tutorial2.pdf)
+### [Slides](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/02_LearningNLP_Slides.pdf)
 
 We'd like to introduce some ethical concerns in ML and especially in NLP, the idea is to start a long-term project directed towards Bias & Fairness in Machine Learning, i.e. intrinsic problems in our data can create inequalities in the real world (Have you watched *"Coded Bias"* on Netflix?)
 
@@ -168,7 +168,7 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
    
 
 -------
-## Tutorial 3
+## [Tutorial 3](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/02_LearningNLP_Tutorial.ipynb)
 
 ### Topics 
 
