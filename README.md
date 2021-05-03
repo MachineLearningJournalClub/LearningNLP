@@ -236,7 +236,7 @@ Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.
 
 Micol Olocco - email : []() - [linkedin]()
 
-Luca Bottero  - email : []() - [linkedin]()
+Luca Bottero  - email : [luca.bottero192@edu.unito.it](luca.bottero192@edu.unito.it) - [linkedin](https://www.linkedin.com/in/luca-bottero-physics/)
 
 
 Project Link: [https://github.com/MachineLearningJournalClub/LearningNLP](https://github.com/MachineLearningJournalClub/LearningNLP)
