@@ -183,6 +183,7 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
 * Understanding Bias in Word Embeddings, [ICML paper](http://proceedings.mlr.press/v97/brunet19a.html) + [code](https://github.com/mebrunet/understanding-bias)
 * Employing [The Word Embedding Fairness Evaluation Framework (WEFE)](https://github.com/dccuchile/wefe): WEAT, (RIPA?)
 * Debiasing Word Embeddings, *[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)*, [code](https://github.com/tolga-b/debiaswe)
+* Biasing a simple model: how can we deliberately bias our model by injecting biased information into our model? What can we learn from this? How is this thing useful for debiasing purposes?
 
 -------
 ## Tutorial 4
