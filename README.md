@@ -168,7 +168,21 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
    
 
 -------
-## [Tutorial 3](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/03_LearningNLP_Tutorial.ipynb)
+
+## [Tutorial 3.1](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/03.1_LearningNLP_Tutorial.ipynb)
+
+### Topics 
+EDA Kaggle Competition
+
+
+### [Tutorial 3.2](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/03.2_LearningNLP_Tutorial.ipynb)
+
+### Topics 
+Word2Vec Kaggle Competition
+
+-------
+
+## [Tutorial 4](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/04_LearningNLP_Tutorial.ipynb)
 
 ### Topics 
 
@@ -184,17 +198,6 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
 * Employing [The Word Embedding Fairness Evaluation Framework (WEFE)](https://github.com/dccuchile/wefe): WEAT, (RIPA?)
 * Debiasing Word Embeddings, *[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)*, [code](https://github.com/tolga-b/debiaswe)
 * Biasing a simple model: how can we deliberately bias our model by injecting biased information into our model? What can we learn from this? How is this thing useful for debiasing purposes?
-
--------
-## Tutorial 4
-
-### Topics 
-* 
-* 
-
-### Possible Ideas: 
-* Word embeddings quantify 100 years of gender and ethnic stereotypes, [PNAS paper](https://www.pnas.org/content/pnas/115/16/E3635.full.pdf) + [code](https://github.com/nikhgarg/EmbeddingDynamicStereotypes)
-* 
 
 ------
 
