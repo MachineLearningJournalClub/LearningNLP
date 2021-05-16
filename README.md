@@ -168,8 +168,9 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
    
 
 -------
+## Tutorial 3
 
-## [Tutorial 3.1](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/03.1_LearningNLP_Tutorial.ipynb)
+### [Tutorial 3.1](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/03.1_LearningNLP_Tutorial.ipynb)
 
 ### Topics 
 EDA Kaggle Competition
