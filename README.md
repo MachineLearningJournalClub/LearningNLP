@@ -170,16 +170,19 @@ We'd like to introduce some ethical concerns in ML and especially in NLP, the id
 -------
 ## Tutorial 3
 
+In the two following notebooks we are going to focus on a Kaggle competition, namely: the [CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize/)
+
 ### [Tutorial 3.1](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/03.1_LearningNLP_Tutorial.ipynb)
 
 ### Topics 
-EDA Kaggle Competition
+* Exploratory Data Analysis 
 
 
 ### [Tutorial 3.2](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/03.2_LearningNLP_Tutorial.ipynb)
 
 ### Topics 
-Word2Vec Kaggle Competition
+* Pretrained Word2Vec model, feature extraction
+* Dimensionality Reduction and visualization with [UMAP](https://umap-learn.readthedocs.io/en/latest/)
 
 -------
 
