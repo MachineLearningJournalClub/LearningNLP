@@ -180,6 +180,8 @@ In the two following notebooks we are going to focus on a Kaggle competition, na
 
 ### [Tutorial 3.2](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/03.2_LearningNLP_Tutorial.ipynb)
 
+You can directly run it on [Kaggle](https://www.kaggle.com/simoneazeglio/word2vec-umap-w2vaugmentation/)
+
 ### Topics 
 * Pretrained Word2Vec model, feature extraction
 * Dimensionality Reduction and visualization with [UMAP](https://umap-learn.readthedocs.io/en/latest/)
