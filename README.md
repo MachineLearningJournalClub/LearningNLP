@@ -237,15 +237,16 @@ Distributed under the *Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 <!-- CONTACT -->
 ## Contact
 
+
+Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
+
+Luca Bottero  - email : [luca.bottero192@edu.unito.it](luca.bottero192@edu.unito.it) - [linkedin](https://www.linkedin.com/in/luca-bottero-physics/)
+
 Marina Rizzi - email : []() - [linkedin]()
 
 Alessio Borriero - email : [alessio.borriero@edu.unito.it](alessio.borriero@edu.unito.it) - [linkedin](https://www.linkedin.com/in/alessio-borriero-357724183/)
 
-Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
-
 Micol Olocco - email : []() - [linkedin]()
-
-Luca Bottero  - email : [luca.bottero192@edu.unito.it](luca.bottero192@edu.unito.it) - [linkedin](https://www.linkedin.com/in/luca-bottero-physics/)
 
 
 Project Link: [https://github.com/MachineLearningJournalClub/LearningNLP](https://github.com/MachineLearningJournalClub/LearningNLP)
