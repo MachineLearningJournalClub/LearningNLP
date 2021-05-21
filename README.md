@@ -185,6 +185,7 @@ You can directly run it on [Kaggle](https://www.kaggle.com/simoneazeglio/word2ve
 ### Topics 
 * Pretrained Word2Vec model, feature extraction
 * Dimensionality Reduction and visualization with [UMAP](https://umap-learn.readthedocs.io/en/latest/)
+* Naive Word2Vec Augmentation
 
 -------
 
