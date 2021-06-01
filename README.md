@@ -205,6 +205,15 @@ You can directly run it on [Kaggle](https://www.kaggle.com/simoneazeglio/word2ve
 * Employing [The Word Embedding Fairness Evaluation Framework (WEFE)](https://github.com/dccuchile/wefe): WEAT, (RIPA?)
 * Debiasing Word Embeddings, *[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)*, [code](https://github.com/tolga-b/debiaswe)
 * Biasing a simple model: how can we deliberately bias our model by injecting biased information into our model? What can we learn from this? How is this thing useful for debiasing purposes?
+-------
+## Tutorial 5
+
+In the two following notebook we are going to focus on a Kaggle competition, namely: the [CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize/)
+
+### [Tutorial 4](https://github.com/MachineLearningJournalClub/LearningNLP/blob/main/05_LearningNLP_Tutorial.ipynb)
+
+### Topics 
+* Data Augmentation
 
 ------
 
