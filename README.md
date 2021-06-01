@@ -57,7 +57,7 @@
         <li><a href="#tutorial-2">Tutorial 2</a></li>
         <li><a href="#tutorial-3">Tutorial 3</a></li>
         <li><a href="#tutorial-4">Tutorial 4</a></li>
-        <li><a href="#tutorial-5">Tutorial 4</a></li>
+        <li><a href="#tutorial-5">Tutorial 5</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
