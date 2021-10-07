@@ -214,6 +214,16 @@ In the two following notebook we are going to focus on a Kaggle competition, nam
 ### Topics 
 * Data Augmentation
 
+-------
+## [Tutorial 6](https://github.com/MachineLearningJournalClub/CommonLitReadabilityChallenge/)
+
+In the following notebooks (in [this](https://github.com/MachineLearningJournalClub/CommonLitReadabilityChallenge/) Github repo) we outlined our solution for the [CommonLit Readibility Prize](https://www.kaggle.com/c/commonlitreadabilityprize/)
+
+### Topics 
+* Finetuning Sentence Transformers models (Roberta family) in PyTorch
+* Possible strategies for data augmentation 
+
+
 ------
 
 <!-- ROADMAP -->
